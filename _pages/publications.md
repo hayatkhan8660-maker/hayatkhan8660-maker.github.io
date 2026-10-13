@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal Articles
+Journal Publications
 ----
 
 - [**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**](https://arxiv.org/abs/2507.12396) <br>
@@ -57,7 +57,7 @@ Khan Muhammad, **Hayat Ullah**, Mohammad S Obaidat, Amin Ullah, Arslan Munir, Mu
 _IEEE IoTJ (2021)_
 
 
-Conference Papers
+Conference Publications
 ----
 - [**Trustworthy Adversarial Robustness via Adaptive Learning-Driven Multi-Teacher Knowledge Distillation**](https://ceur-ws.org/Vol-4254/paper21.pdf) <br>
 **Hayat Ullah**, Syed Muhammad Talha Zaidi, Arslan Munir <br>
